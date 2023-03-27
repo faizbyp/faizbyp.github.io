@@ -10,7 +10,6 @@ description = """
 Creative Enthusiast
 """
 profilePicture = "images/profile.jpg"
-favicon = "favicons/favicon.ico"
 mainSections = []
 
 [[params.socialIcons]]
