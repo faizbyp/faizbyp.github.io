@@ -20,6 +20,10 @@ Graphic Designer (December 2021 – March 2022)
 
 # Organization
 
+### IEEE IPB Student Branch
+
+Director of Information Systems (February 2023 - now)
+
 ### Himpunan Mahasiswa Ilmu Komputer IPB
 
 - Head of Education (December 2022 – now)
