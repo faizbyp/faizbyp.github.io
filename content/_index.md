@@ -53,3 +53,7 @@ Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi – November 2022
 ### Finalist of Indie Game Ignite COMPFEST 13
 
 Fakultas Ilmu Komputer Universitas Indonesia – September 2021
+
+---
+
+[Check the repository of this site](https://github.com/faizbyp/faizbyp.github.io)
