@@ -1,7 +1,6 @@
 ---
-title: "Catatan MPTP"
+title: "Catatan MPTP K11"
 date: 2023-05-04T16:32:59+07:00
-draft: true
 ---
 
 ## Judul
