@@ -6,12 +6,15 @@ import '../styles/bootstrap.scss';
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml+png" href="/favicon.png" />
+		<link rel="icon" type="image/svg+xml+png" href="/fb-blue-light.png" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
 	</head>
 	<body>
 		<slot>No content</slot>
+		<script>
+			import '../../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js';
+		</script>
 	</body>
 </html>
